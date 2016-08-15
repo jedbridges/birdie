@@ -1,0 +1,67 @@
+.logo {
+  text-align: center;
+  width: 100%;
+  padding-top: 48px;
+}
+
+
+h3 {
+font-family: 'Crimson Text', serif;
+font-size: 24px;
+color: #000104;
+letter-spacing: 6px;
+text-transform: uppercase;
+text-align: center;
+line-height: 5%;
+font-weight: lighter;
+}
+
+a:link {
+    text-decoration: underline;
+    color: #A64738;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #A64738;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #A64738;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+p {
+font-family: 'Crimson Text', serif;
+font-size: 18px;
+color: #000104;
+text-align: center;
+line-height: 26px;
+}
+
+.section{
+  padding: 12px;
+}
+
+body {
+  display: block;
+}
+
+footer{
+  font-style: italic;
+}
+
+html {
+  background: url(background.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
