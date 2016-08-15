@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 .logo img {
   display: block;
   width: 50%;
   height: 0 auto;
   padding-top: 64px;
   max-width: 50%;
+=======
+.logo {
+  width: 100%;
+  padding-top: 48px;
+  max-width: 600px;
+  height: auto;
+>>>>>>> master
   margin: 0 auto;
 }
 
