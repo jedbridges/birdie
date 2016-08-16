@@ -8,7 +8,6 @@
   max-width: 580px;
 }
 
-
 h3 {
 font-family: 'Crimson Text', serif;
 font-size: 1.6em;
@@ -63,7 +62,7 @@ line-height: 24px;
   border-radius: 4px;
 }
 
-footer{
+footer {
   font-style: italic;
   padding-bottom: 64px;
 }
