@@ -15,7 +15,7 @@ color: #000104;
 letter-spacing: 6px;
 text-transform: uppercase;
 text-align: center;
-line-height: 4%;
+line-height: 6%;
 font-weight: lighter;
 }
 
@@ -54,7 +54,7 @@ line-height: 24px;
 }
 
 .section{
-  padding: 12px;
+  padding: 16px;
 }
 
 .update-img{
