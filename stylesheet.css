@@ -60,7 +60,7 @@ line-height: 24px;
 .update-img{
   display: block;
   margin: 0 auto;
-  max-width: 400px;
+  max-width: 480px;
   height: auto;
   width: 100%;
   border-radius: 8px;
@@ -75,6 +75,15 @@ line-height: 24px;
   margin: 0 auto;
   padding-bottom: 64px;
   padding-top: 8px;
+}
+
+#quote{
+  display: block;
+  width: 90%;
+  height: 0 auto;
+  padding: 24px;
+  margin: 0 auto;
+  max-width: 430px;
 }
 
 footer {
